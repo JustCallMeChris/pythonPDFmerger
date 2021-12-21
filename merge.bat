@@ -1,1 +1,1 @@
-venv\Scripts\python.exe main.py
+python merge.py
